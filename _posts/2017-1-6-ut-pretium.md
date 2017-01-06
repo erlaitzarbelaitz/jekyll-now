@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ut pretium
+title: Ut pretium (esto es el título)
+published: true
 ---
 ## Un H2
 
